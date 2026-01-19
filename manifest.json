@@ -1,0 +1,8 @@
+{
+  "name": "School Student Manager",
+  "short_name": "SchoolApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff"
+}
